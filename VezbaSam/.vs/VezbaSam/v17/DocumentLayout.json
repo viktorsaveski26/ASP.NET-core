@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\integ sistemi visutal studio primeri\\vezbasam\\eshop.web\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\integ sistemi visutal studio primeri\\vezbasam\\eshop.web\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\integ sistemi visutal studio primeri\\vezbasam\\eshop.web\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\integ sistemi visutal studio primeri\\vezbasam\\eshop.web\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\integ sistemi visutal studio primeri\\vezbasam\\eshop.web\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\integ sistemi visutal studio primeri\\vezbasam\\eshop.web\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\integ sistemi visutal studio primeri\\vezbasam\\eshop.web\\data\\migrations\\20240320001031_eee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C148C7-716E-43E0-956B-54C834350FBF}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\data\\migrations\\20240320001031_eee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Models\\Tickets.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Models\\Tickets.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Models\\Tickets.cs",
+              "RelativeToolTip": "EShop.Web\\Models\\Tickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:29:15.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Views\\Tickets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Tickets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Views\\Tickets\\Edit.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Tickets\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:27:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:26:08.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Models\\Concert.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Models\\Concert.cs",
+              "RelativeToolTip": "EShop.Web\\Models\\Concert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:25:49.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:14:14.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcertsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Controllers\\ConcertsController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\ConcertsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Controllers\\ConcertsController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\ConcertsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:13:34.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240320001031_eee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Data\\Migrations\\20240320001031_eee.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Data\\Migrations\\20240320001031_eee.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\integ sistemi visutal studio primeri\\VezbaSam\\EShop.Web\\Data\\Migrations\\20240320001031_eee.cs",
+              "RelativeToolTip": "EShop.Web\\Data\\Migrations\\20240320001031_eee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:10:32.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

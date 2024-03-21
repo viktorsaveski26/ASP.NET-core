@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll

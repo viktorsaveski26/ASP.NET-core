@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\bin\Debug\net8.0\EShop.Service.deps.json
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\bin\Debug\net8.0\EShop.Service.dll
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\bin\Debug\net8.0\EShop.Service.pdb
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\EShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfo.cs
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\EShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\EShop.Service.dll
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\refint\EShop.Service.dll
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\EShop.Service.pdb
+C:\Users\PC\Desktop\integ sistemi visutal studio primeri\VezbaSam\EShop.Service\obj\Debug\net8.0\ref\EShop.Service.dll
